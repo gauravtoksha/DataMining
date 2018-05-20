@@ -1,6 +1,6 @@
 #RediffDataset
 
-The given dataset contains more than 14 lakh news articles from various newspapers in India for the year 2017, crawled by the Rediff Realtime News platform. Most of the major newspapers are covered in this dataset, and top news from most of these sites should be a part of the dataset.
+The given dataset contains more than 14 lakh news articles from various newspapers in India for the year 2017, crawled on the Rediff Realtime News platform. Most of the major newspapers are covered in this dataset, and top news from most of these sites should be a part of the dataset.
 
 The dataset contains the News source name, the time of crawl (which is a good approximation to the time of the news being published), the title of the news article, a summary and a derived description of the news article (first few lines). This data set is used for showing top news and for powering the news search on http://realtime.rediff.com - which is Rediff's attempt at automated news.
 
