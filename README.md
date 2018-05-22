@@ -14,3 +14,6 @@ Tasks performed:<ol>
 <li>using conditional probabilities to predict the likelihood of a news event</li>
 <li>created a web crawler to crawl all those pages to get accurate date and the category---this was a failure due to the resources and time it takes to perform the job</li>
 </ol>
+
+<br>The above tasks are only performed on a subset of the entire dataset because of constraints of resources<br>
+Currently we are trying to apply the logic on the entire dataset by using Apache Mahout scalable library on Hadoop architecture
