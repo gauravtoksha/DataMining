@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 16 10:15:06 2018
-
-@author: Vishant
-"""
-
 import pandas as pd
 import os,glob
 
